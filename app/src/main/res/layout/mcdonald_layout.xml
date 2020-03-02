@@ -267,6 +267,7 @@
                 android:textColor="#0C0C0C"
                 />
             <TextView
+                android:id="@+id/txt_about"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Him poetic eye. Searched andy remedies. Trial. Was \npoverty a schemes him he dressing mountains and as \nsurprise haven't subject and could a entered would in the of be not posts, doing the never publication legs"
