@@ -111,6 +111,7 @@ And in this crazy life, and through these "
 
             >
             <TextView
+                android:id="@+id/txt_price"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="$ 99.9"
