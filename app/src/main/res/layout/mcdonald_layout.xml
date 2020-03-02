@@ -93,7 +93,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="131dp"
         android:layout_height="187dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
         android:elevation="2dp"
         app:cardCornerRadius="10dp"
         app:layout_constraintLeft_toRightOf="@id/txt_profilename"
@@ -103,6 +103,7 @@
         >
 
         <ImageView
+            android:id="@+id/iv_mcprofile"
             android:layout_width="129dp"
             android:layout_height="match_parent"
             android:src="@drawable/mcprofile"
